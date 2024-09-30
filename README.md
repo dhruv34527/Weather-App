@@ -1,10 +1,10 @@
 # Weather application created in react js
 
 ## Sample images of project
-### 01
+### 01 Image
 ![some network problem occured ](./src/assets/sc01.png "Landing page")
 
-### 02
+### 02 Image
 
 ![some network problem occured ](./src/assets/sc02.png)
 
